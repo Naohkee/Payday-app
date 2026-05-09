@@ -2,7 +2,7 @@
   "name": "Payday — Budget Tracker",
   "short_name": "Payday",
   "description": "Personal budget tracker with daily allowance, bills, savings and credit cards",
-  "start_url": "/",
+  "start_url": "/Payday-app",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#0f0f0f",
